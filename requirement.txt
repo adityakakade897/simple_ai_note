@@ -1,6 +1,7 @@
 streamlit
-pymupdf
-paddleocr
-paddlepaddle
+PyMuPDF
 Pillow
 numpy
+paddleocr
+sentence-transformers
+transformers
