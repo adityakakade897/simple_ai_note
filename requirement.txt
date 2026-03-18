@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+paddleocr
+paddlepaddle
+Pillow
+numpy
